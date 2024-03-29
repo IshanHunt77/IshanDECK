@@ -1,6 +1,4 @@
-let i = 1,
-  m = localStorage.length,
-  j = 0,k=0;
+let i = 1,j = 0,k = 0;
 
 const DisplayTodo = () => {
   let html = document.createElement("div");
